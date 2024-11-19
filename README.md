@@ -27,5 +27,5 @@ This project focuses on developing a machine learning model to predict final pri
 - Key predictors: `Unit Price`, `Promotion Type`, and `Customer Demographics`.
 
 ## Contact
-- **Email**: [YourEmail@example.com](mailto:bangale102@gmail.com)
+- **Email**: [bangale102@gmail.com](mailto:bangale102@gmail.com)
 - **Portfolio**: [Your Portfolio](https://omavinashbangale.wixsite.com/you-tell-me)
